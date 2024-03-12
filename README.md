@@ -1,10 +1,11 @@
 # Data Mining Sample🤖
 
-- Clustering
+- Clustering 😎
 
   - K-Means ✅
 
   - DBSCAN ✅
 
 - KNN ✅
-
+- 神经网络 😊
+  - MLPClassifier ✅
